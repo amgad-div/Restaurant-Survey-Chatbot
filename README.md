@@ -2,8 +2,8 @@
 Chatbot that take the feedback from client about restaurant and store the feedback in database 
 
 ## Tools 
-Botpress
-Pgadmin
+Botpress <br/>
+Pgadmin <br/>
 Docker
 
 
